@@ -13,6 +13,8 @@ The country index starts from 0 assigned to the first country in the above file.
 Each coloumn in the datasets refer place, coordinates, Timezone, user location field location indicative words, user location field organisation indicative words, USERNAME, user Text content, user Description content, user interface Language,user Tweet Language, maximum user friends location. The last coloum is the class which is the country index it predicted.
 
 Note:
+-----
+
 The downloading of tweets from the Twitter API, preprocessing & conditioning of the tweets are two prelimnary steps which are done to generate the above datasets. I intend to make those codes open in future. Still downloading of tweets from Twitter streaming API is demonstrated best by see link: https://www.youtube.com/watch?v=pUUxmvvl2FE. 
 
 # How To Run The Code
