@@ -1,8 +1,10 @@
 # Country_level-location-classification-system-for-Twitter-tweets-of-the-whole-world
 
-Description
+Description:
+------------
+Our main motive was to develop a Countrylevel location classification system for worldwide tweets. Our work is inspired from the existing work done by (see links: https://arxiv.org/pdf/1604.07236.pdf, https://github.com/azubiaga/tweet-country-classification). Our small contribution involves the use of user friends network feature along with all other features used in the existing work.
 
-This contains some datasets &amp; classification code.
+There are two sample files of datasets one is for training the model & other for testing. The datasets are unbalanced since only a sample of them are provided. The python code file contains the code for the 9 classifiers which we used. There is a ppt presentation which might give you a good outlook to this work. 
 
 The countries represented are given in form of indexes 0 to 248. 300 is no country defiined. see file modified_country_list.txt.The country index starts from 0 assigned to the first country in the above file. Each country is spelt deifferently hence somany different names for the same country.
 
