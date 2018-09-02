@@ -1,0 +1,249 @@
+﻿ Afghanistan; Afghanistan; Afghanistan; Afghanistan; Islamic Republic of Afghanistan; Islamic Republic of Afghanistan; the Islamic Republic of Afghanistan; The Islamic Republic of Afghanistan;AF; AFG; AF; ; AFG
+ Aland Islands; Aland Islands; Åland Islands; Åland Islands; Åland; ; ; ;AX; ALA
+ Albania; Albania; Albania; Albania; Republic of Albania; Republic of Albania; the Republic of Albania; The Republic of Albania;AL; ALB; AL; ; AL
+ Algeria; Algeria; Algeria; Algeria; People's Democratic Republic of Algeria; People's Democratic Republic of Algeria; the People's Democratic Republic of Algeria; The People's Democratic Republic of Algeria;DZ; DZA; AG; ; DZ
+ American Samoa; American Samoa; American Samoa; American Samoa; Territory of American Samoa; ; ; ;AS; ASM; AQ
+ Andorra; Andorra; Andorra; Andorra; Principality of Andorra; Principality of Andorra; the Principality of Andorra; The Principality of Andorra;AD; AND; AN; ; AND
+ Angola; Angola; Angola; Angola; Republic of Angola; Republic of Angola; the Republic of Angola; The Republic of Angola;AO; AGO; AO
+ Anguilla; Anguilla; Anguilla; Anguilla; Anguilla; ; ; ;AI; AIA; AV
+ Antarctica; Antarctica; Antarctica; Antarctica; Antarctica; ; ; ;AQ; ATA; AY
+ Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda; Antigua and Barbuda;AG; ATG; AC
+ Argentina; Argentina; Argentina; Argentina; Argentine Republic; Argentine Republic; the Argentine Republic; The Argentine Republic;AR; ARG; AR; ; RA
+ Armenia; Armenia; Armenia; Armenia; Republic of Armenia; Republic of Armenia; the Republic of Armenia; The Republic of Armenia;AM; ARM; AM; ; AM
+ Aruba; Aruba; Aruba; Aruba; Aruba; ; ; ;AW; ABW; AA
+ Australia; Australia; Australia; Australia; Commonwealth of Australia; Commonwealth of Australia; Australia; Australia;AU; AUS; AS; ; AUS
+ Austria; Austria; Austria; Austria; Republic of Austria; Republic of Austria; the Republic of Austria; The Republic of Austria;AT; AUT; AU; ; A
+ Azerbaijan; Azerbaijan; Azerbaijan; Azerbaijan; Republic of Azerbaijan; Republic of Azerbaijan; the Republic of Azerbaijan; The Republic of Azerbaijan;AZ; AZE; AJ
+ Bahamas; Bahamas; Bahamas; Bahamas; Commonwealth of the Bahamas; Commonwealth of The Bahamas; the Commonwealth of the Bahamas; The Commonwealth of The Bahamas;BS; BHS; BF; ; BS
+ Bahrain; Bahrain; Bahrain; Bahrain; Kingdom of Bahrain; Kingdom of Bahrain; The Kingdom of Bahrain; The Kingdom of Bahrain;BH; BHR; BA; ; BRN
+ Bangladesh; Bangladesh; Bangladesh; Bangladesh; People's Republic of Bangladesh; People's Republic of Bangladesh; the People's Republic of Bangladesh; The People's Republic of Bangladesh;BD; BGD; BQ; ; BD
+ Barbados; Barbados; Barbados; Barbados; Barbados; Barbados; Barbados; Barbados;BB; BRB; BB; ; BDS
+ Belarus; Belarus; Belarus; Belarus; Republic of Belarus; Republic of Belarus; the Republic of Belarus; The Republic of Belarus;BY; BLR; BO; ; SU
+ Belgium; Belgium; Belgium; Belgium; Kingdom of Belgium; Kingdom of Belgium; the Kingdom of Belgium; The Kingdom of Belgium;BE; BEL; BE; ; B
+ Belize; Belize; Belize; Belize; Belize; Belize; Belize; Belize;BZ; BLZ; BH; ; BH
+ Benin; Benin; Benin; Benin; Republic of Benin; Republic of Benin; the Republic of Benin; The Republic of Benin;BJ; BEN; BN; ; DY
+ Bermuda; Bermuda; Bermuda; Bermuda; Bermuda; ; ; ;BM; BMU; BD
+ Bhutan; Bhutan; Bhutan; Bhutan; Kingdom of Bhutan; Kingdom of Bhutan; the Kingdom of Bhutan; The Kingdom of Bhutan;BT; BTN; BT
+ Bolivia; Plurinational State of Bolivia; Bolivia, Plurinational State of; Plurinational State of Bolivia; Plurinational State of Bolivia; Plurinational State of Bolivia; Plurinational State of Bolivia (the); Plurinational State of Bolivia (The);BO; BOL; BL; ; BOL
+ Bonaire; Bonaire, Sint Eustatius and Saba; Bonaire, Sint Eustatius and Saba; Bonaire, Sint Eustatius and Saba; Bonaire, Saint Eustatius and Saba; ; ; ;BQ; BES
+ Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina; Bosnia and Herzegovina;BA; BIH; BK; ; BIH
+ Botswana; Botswana; Botswana; Botswana; Republic of Botswana; Republic of Botswana; the Republic of Botswana; The Republic of Botswana;BW; BWA; BC; ; RB
+ Bouvet Island; Bouvet Island; Bouvet Island; Bouvet Island; Bouvet Island; ; ; ;BV; BVT; BV
+ Brazil; Brazil; Brazil; Brazil; Federative Republic of Brazil; Federative Republic of Brazil; the Federative Republic of Brazil; The Federative Republic of Brazil;BR; BRA; BR; ; BR
+ British Indian Ocean Territory; British Indian Ocean Territory; British Indian Ocean Territory; British Indian Ocean Territory; British Indian Ocean Territory; ; ; ;IO; IOT; IO; BIOT
+ Brunei Darussalam; Brunei Darussalam; Brunei Darussalam; Brunei Darussalam; Brunei Darussalam; Brunei Darussalam; Brunei Darussalam; Brunei Darussalam;BN; BRN; BX; ; BRU
+ Bulgaria; Bulgaria; Bulgaria; Bulgaria; Republic of Bulgaria; Republic of Bulgaria; the Republic of Bulgaria; The Republic of Bulgaria;BG; BGR; BU; ; BG
+ Burkina Faso; Burkina Faso; Burkina Faso; Burkina Faso; Burkina Faso; Burkina Faso; Burkina Faso; Burkina Faso;BF; BFA; UV
+ Burundi; Burundi; Burundi; Burundi; Republic of Burundi; Republic of Burundi; the Republic of Burundi; The Republic of Burundi;BI; BDI; BY
+ Cambodia; Cambodia; Cambodia; Cambodia; Kingdom of Cambodia; Kingdom of Cambodia; the Kingdom of Cambodia; The Kingdom of Cambodia;KH; KHM; CB; ; K
+ Cameroon; Cameroon; Cameroon; Cameroon; Republic of Cameroon; Republic of Cameroon; the Republic of Cameroon; The Republic of Cameroon;CM; CMR; CM
+ Canada; Canada; Canada; Canada; Canada; Canada; Canada; Canada;CA; CAN; CA; ; CDN
+ Cape Verde; Cape Verde; Cape Verde; Cape Verde; Republic of Cape Verde; Republic of Cape Verde; the Republic of Cape Verde; The Republic of Cape Verde;CV; CPV; CV
+ Cayman Islands; Cayman Islands; Cayman Islands; Cayman Islands; Cayman Islands; ; ; ;KY; CYM; CJ
+ Central African Republic; Central African Republic; Central African Republic; Central African Republic; Central African Republic; Central African Republic; the Central African Republic; The Central African Republic;CF; CAF; CT; ; RCA
+ Chad; Chad; Chad; Chad; Republic of Chad; Republic of Chad; the Republic of Chad; The Republic of Chad;TD; TCD; CD; ; TCH
+ Chile; Chile; Chile; Chile; Chile; Republic of Chile; the Republica de Chile; The Republica de Chile;CL; CHL; CI; ; RCH
+ China; China; China; China; People's Republic of China; People's Republic of China; the People's Republic of China; The People's Republic of China;CN; CHN; CH; PRC; RC
+ Christmas Island; Christmas Island; Christmas Island; Christmas Island; Territory of Christmas Island; ; ; ;CX; CXR; KT
+ Cocos Islands; Keeling Islands; Cocos (Keeling) Islands; Cocos (Keeling) Islands; Territory of Cocos (Keeling) Islands; ; ; ;CC; CCK; CK
+ Colombia; Colombia; Colombia; Colombia; Republic of Columbia; Republic of Colombia; the Republic of Columbia; The Republic of Columbia;CO; COL; CO; ; CO
+ Comoros; Comoros; Comoros; Comoros; Union of the Comoros; Union of the Comoros; the Union of the Comoros (the); The Union of The Comoros (The);KM; COM; CN
+ Congo; Congo; Congo; Congo; Republic of the Congo; Republic of the Congo; the Republic of the Congo; The Republic of The Congo;CG; COG; CF; ; RCB
+ Congo The Democratic Republic of the; The Democratic Republic of the Congo; Congo, The Democratic Republic of the; The Democratic Republic of the Congo; The Democratic Republic of the Congo; The Democratic Republic of the Congo; the Democratic Republic of The Congo; The Democratic Republic of The Congo;CD; COD; CG; DRC; ZRE
+ Cook Islands; Cook Islands; Cook Islands; Cook Islands; Cook Islands; Isole Cook; ; ;CK; COK; CW
+ Costa Rica; Costa Rica; Costa Rica; Costa Rica; Republic of Costa Rica; Republic of Costa Rica; the Republic of Costa Rica; The Republic of Costa Rica;CR; CRI; CS; ; CR
+ Cote d'Ivoire; Cote d'Ivoire; Côte d'Ivoire; Côte d'Ivoire; Republic of Cote d'Ivoire; Republic of Cote d'Ivoire; the Republic of Cote d'Ivoire; The Republic of Cote d'Ivoire;CI; CIV; IV; ; CI
+ Croatia; Croatia; Croatia; Croatia; Republic of Crotia; Republic of Croatia; the Republic of Crotia; The Republic of Crotia;HR; HRV; HR; ; HR
+ Cuba; Cuba; Cuba; Cuba; Republic of Cuba; Republic of Cuba; the Republic of Cuba; The Republic of Cuba;CU; CUB; CU; ; CU
+ Curacao; Curacao; Curaçao; Curaçao; Land Curacao; ; ; ;CW; CUW; UC
+ Cyprus; Cyprus; Cyprus; Cyprus; Republic of Cyprus; Republic of Cyprus; the Republic of Cyprus; The Republic of Cyprus;CY; CYP; CY; ; CY
+ Czech Republic; Czech Republic; Czech Republic; Czech Republic; Czech Republic; Czech Republic; the Czech Republic; The Czech Republic;CZ; CZE; EZ; ; CZ
+ Denmark; Denmark; Denmark; Denmark; Kingdom of Denmark; Kingdom of Denmark; the Kingdom of Denmark; The Kingdom of Denmark;DK; DNK; DA; ; DK
+ Djibouti; Djibouti; Djibouti; Djibouti; Republic of Djibouti; Republic of Djibouti; the Republic of Djibouti; The Republic of Djibouti;DJ; DJI; DJ
+ Dominica; Dominica; Dominica; Dominica; Commonwealth of Dominica; Commonwealth of Dominica; the Commonwealth of Dominica; The Commonwealth of Dominica;DM; DMA; DO; ; WD
+ Dominican Republic; Dominican Republic; Dominican Republic; Dominican Republic; Dominican Republic; Dominican Republic; the Dominican Republic; The Dominican Republic;DO; DOM; DR; ; DOM
+ Ecuador; Ecuador; Ecuador; Ecuador; Republic of Ecuador; Republic of Ecuador; the Republic of Ecuador; The Republic of Ecuador;EC; ECU; EC; ; EC
+ Egypt; Egypt; Egypt; Egypt; Arab Republic of Egypt; Arab Republic of Egypt; the Arab Republic of Egypt; The Arab Republic of Egypt;EG; EGY; EG; ; ET
+ El Salvador; El Salvador; El Salvador; El Salvador; Republic of El Salvador; Republic of El Salvador; the Republic of El Salvador; The Republic of El Salvador;SV; SLV; ES; ; ES
+ Equatorial Guinea; Equatorial Guinea; Equatorial Guinea; Equatorial Guinea; Republic of Equatorial Guinea; Republic of Equatorial Guinea; the Republic of Equatorial Guinea; The Republic of Equatorial Guinea;GQ; GNQ; EK
+ Eritrea; Eritrea; Eritrea; Eritrea; State of Eritrea; State of Eritrea; Eritrea; Eritrea;ER; ERI; ER; ; ER
+ Estonia; Estonia; Estonia; Estonia; Republic of Estonia; Republic of Estonia; the Republic of Estonia; The Republic of Estonia;EE; EST; EN; ; EST
+ Ethiopia; Ethiopia; Ethiopia; Ethiopia; Federal Democratic Republic of Ethiopia; Federal Democratic Republic of Ethiopia; the Federal Democratic Republic of Ethiopia; The Federal Democratic Republic of Ethiopia;ET; ETH; ET
+ Falkland Islands ; Malvinas; Falkland Islands (Malvinas); Falkland Islands (Malvinas); Falkland Islands (Islas Malvinas); ; ; ;FK; FLK; FK
+ Faroe Islands; Faroe Islands; Faroe Islands; Faroe Islands; Faroe Islands; ; ; ;FO; FRO; FO; ; FO
+ Fiji; Fiji; Fiji; Fiji; Republic of the Fiji Islands; Republic of the Fiji Islands; the Republic of Fiji; The Republic of Fiji;FJ; FJI; FJ; ; FJI
+ Finland; Finland; Finland; Finland; Republic of Finland; Republic of Finland; the Republic of Finland; The Republic of Finland;FI; FIN; FI; ; FIN
+ France; France; France; France; French Republic; French Republic; the French Republic; The French Republic;FR; FRA; FR; ; F
+ French Guiana; French Guiana; French Guiana; French Guiana; French Guiana; ; ; ;GF; GUF; FG
+ French Polynesia; French Polynesia; French Polynesia; French Polynesia; Overseas Lands of French Polynesia; ; ; ;PF; PYF; FP
+ French Southern Territories; French Southern Territories; French Southern Territories; French Southern Territories; Territory of the French Southern and Antarctic Lands; ; ; ;TF; ATF; FS
+ Gabon; Gabon; Gabon; Gabon; Gabonese Republic; Gabonese Republic; the Gabonese Republic; The Gabonese Republic;GA; GAB; GB; ; G
+ Gambia; Gambia; Gambia; Gambia; Republic of the Gambia; Republic of The Gambia; the Republic of The Gambia; The Republic of The Gambia;GM; GMB; GA; ; WAG
+ Georgia; Georgia; Georgia; Georgia; Georgia; Georgia; Georgia; Georgia;GE; GEO; GG; ; GE
+ Germany; Germany; Germany; Germany; Federal Republic of Germany; Federal Republic of Germany; the Federal Republic of Germany; The Federal Republic of Germany;DE; DEU; GM; ; D
+ Ghana; Ghana; Ghana; Ghana; Republic of Ghana; Republic of Ghana; the Republic of Ghana; The Republic of Ghana;GH; GHA; GH; ; GH
+ Gibraltar; Gibraltar; Gibraltar; Gibraltar; Gibraltar; ; ; ;GI; GIB; GI; ; GBZ
+ Greece; Greece; Greece; Greece; Hellenic Republic; Hellenic Republic; the Hellenic Republic; The Hellenic Republic;GR; GRC; GR; ; GR
+ Greenland; Greenland; Greenland; Greenland; Greenland; ; ; ;GL; GRL; GL
+ Grenada; Grenada; Grenada; Grenada; Grenada; Grenada; Grenada; Grenada;GD; GRD; GJ; ; WG
+ Guadeloupe; Guadeloupe; Guadeloupe; Guadeloupe; Guadeloupe; ; ; ;GP; GLP; GP
+ Guam; Guam; Guam; Guam; Territory of Guam; ; ; ;GU; GUM; GQ
+ Guatemala; Guatemala; Guatemala; Guatemala; Republic of Guatemala; Republic of Guatemala; the Republic of Guatemala; The Republic of Guatemala;GT; GTM; GT; ; GCA
+ Guernsey; Guernsey; Guernsey; Guernsey; Bailiwick of Guernsey; ; ; ;GG; GGY; GK; ; GBG
+ Guinea; Guinea; Guinea; Guinea; Republic of Guinea; Republic of Guinea; the Republic of Guinea; The Republic of Guinea;GN; GIN; GV; ; RG
+ Guinea-Bissau; Guinea-Bissau; Guinea-Bissau; Guinea-Bissau; Republic of Guinea-Bissau; Republic of Guinea-Bissau; the Republic of Guinea-Bissau; The Republic of Guinea-Bissau;GW; GNB; PU
+ Guyana; Guyana; Guyana; Guyana; Cooperative Republic of Guyana; Co-operative Republic of Guyana; the Republic of Guyana; The Republic of Guyana;GY; GUY; GY; ; GUY
+ Haiti; Haiti; Haiti; Haiti; Republic of Haiti; Republic of Haiti; the Republic of Haiti; The Republic of Haiti;HT; HTI; HA; ; RH
+ Heard Island and McDonald Islands; Heard Island and McDonald Islands; Heard Island and McDonald Islands; Heard Island and McDonald Islands; Territory of Heard Island and McDonald Islands; ; ; ;HM; HMD; HM
+ Holy See ; Holy See (Vatican City State); Holy See (Vatican City State); Holy See (Vatican City State); The Holy See (State of the Vatican City); Vatican City; ; ;VA; VAT; VT; Holy See; V
+ Honduras; Honduras; Honduras; Honduras; Republic of Honduras; Republic of Honduras; the Republic of Honduras; The Republic of Honduras;HN; HND; HO
+ Hong Kong; Hong Kong; Hong Kong; Hong Kong; Hong Kong Special Administrative Region China; ; ; ;HK; HKG; HK; China, Hong Kong SAR
+ Hungary; Hungary; Hungary; Hungary; Republic of Hungary; Republic of Hungary; the Republic of Hungary; The Republic of Hungary;HU; HUN; HU; ; H
+ Iceland; Iceland; Iceland; Iceland; Republic of Iceland; Republic of Iceland; the Republic of Iceland; The Republic of Iceland;IS; ISL; IC; ; IS
+ India; Hindustan; Bharat; India;भारत; the Republic of India; The Republic of India;IN; IND; IN; IND
+ Indonesia; Indonesia; Indonesia; Indonesia; Republic of Indonesia; Republic of Indonesia; the Republic of Indonesia; The Republic of Indonesia;ID; IDN; ID; ; RI
+ Iran; Islamic Republic of Iran; Iran, Islamic Republic of; Islamic Republic of Iran; Islamic Republic of Iran; Islamic Republic of Iran; the Islamic Republic of Iran; The Islamic Republic of Iran;IR; IRN; IR; ; IR
+ Iraq; Iraq; Iraq; Iraq; Republic of Iraq; Republic of Iraq; the Republic of Iraq; The Republic of Iraq;IQ; IRQ; IZ; ; IRQ
+ Ireland; Ireland; Ireland; Ireland; Ireland; Ireland; Ireland; Ireland;IE; IRL; EI; ; IRL
+ Isle of Man; Isle of Man; Isle of Man; Isle of Man; Isle of Man; ; ; ;IM; IMN; IM; ; GBM
+ Israel; Israel; Israel; Israel; State of Israel; State of Israel; the State of Israel; The State of Israel;IL; ISR; IS; ; IL
+ Italy; Italy; Italy; Italy; Italian Republic; Italian Republic; the Italian Republic; The Italian Republic;IT; ITA; IT; ; I
+ Jamaica; Jamaica; Jamaica; Jamaica; Jamaica; Jamaica; Jamaica; Jamaica;JM; JAM; JM; ; JA
+ Japan; Japan; Japan; Japan; Japan; Japan; Japan; Japan;JP; JPN; JA; ; J
+ Jersey; Jersey; Jersey; Jersey; Bailiwick of Jersey; ; ; ;JE; JEY; JE; ; GBJ
+ Jordan; Jordan; Jordan; Jordan; Hashemite Kingdom of Jordan; Hashemite Kingdom of Jordan; the Hashemite Kingdom of Jordan; The Hashemite Kingdom of Jordan;JO; JOR; JO; ; HKJ
+ Kazakhstan; Kazakhstan; Kazakhstan; Kazakhstan; Republic of Kazakhstan; Republic of Kazakhstan; the Republic of Kazakhstan; The Republic of Kazakhstan;KZ; KAZ; KZ; ; KZ
+ Kenya; Kenya; Kenya; Kenya; Republic of Kenya; Republic of Kenya; the Republic of Kenya; The Republic of Kenya;KE; KEN; KE; ; EAK
+ Kiribati; Kiribati; Kiribati; Kiribati; Republic of Kiribati; Republic of Kiribati; the Republic of Kiribati; The Republic of Kiribati;KI; KIR; KR
+ North Korea; Democratic People's Republic of Korea; Korea, Democratic People's Republic of; Democratic People's Republic of Korea; Democratic People's Republic of Korea; Democratic People's Republic of Korea; the Democratic People's Republic of Korea; The Democratic People's Republic of Korea;KP; PRK; KN
+ South Korea; Republic of Korea; Korea, Republic of; Republic of Korea; Republic of Korea; Republic of Korea; the Republic of Korea; The Republic of Korea;KR; KOR; KS; ; ROK
+ Kuwait; Kuwait; Kuwait; Kuwait; State of Kuwait; State of Kuwait; the State of Kuwait; The State of Kuwait;KW; KWT; KU; ; KWT
+ Kyrgyzstan; Kyrgyzstan; Kyrgyzstan; Kyrgyzstan; Kyrgyz Republic; Kyrgyz Republic; the Kyrgyz Republic; The Kyrgyz Republic;KG; KGZ; KG; ; KS
+ Laos; Lao People's Democratic Republic; Lao People's Democratic Republic; Lao People's Democratic Republic; Lao People's Democratic Republic; Lao People's Democratic Republic; the Lao People's Democratic Republic; The Lao People's Democratic Republic;LA; LAO; LA; ; LAO
+ Latvia; Latvia; Latvia; Latvia; Republic of Latvia; Republic of Latvia; the Republic of Latvia; The Republic of Latvia;LV; LVA; LG; ; LV
+ Lebanon; Lebanon; Lebanon; Lebanon; Lebanese Republic; Lebanese Republic; the Lebanese Republic; The Lebanese Republic;LB; LBN; LE; ; RL
+ Lesotho; Lesotho; Lesotho; Lesotho; Kingdom of Lesotho; Kingdom of Lesotho; the Kingdom of Lesotho; The Kingdom of Lesotho;LS; LSO; LT; ; LS
+ Liberia; Liberia; Liberia; Liberia; Republic of Liberia; Republic of Liberia; the Republic of Liberia; The Republic of Liberia;LR; LBR; LI; ; LB
+ Libya; Libyan Arab Jamahiriya; Libyan Arab Jamahiriya; Libyan Arab Jamahiriya; Great Socialist People's Libyan Arab Jamahiriya; Great Socialist People's Libyan Arab Jamahiriya; the Socialist People's Libyan Arab Jamahiriya; The Socialist People's Libyan Arab Jamahiriya;LY; LBY; LY; ; LAR
+ Liechtenstein; Liechtenstein; Liechtenstein; Liechtenstein; Principality of Liechtenstein; Principality of Liechtenstein; the Principality of Liechtenstein; The Principality of Liechtenstein;LI; LIE; LS; ; FL
+ Lithuania; Lithuania; Lithuania; Lithuania; Republic of Lithuania; Republic of Lithuania; the Republic of Lithuania; The Republic of Lithuania;LT; LTU; LH; ; LT
+ Luxembourg; Luxembourg; Luxembourg; Luxembourg; Grand Duchy of Luxembourg; Grand Duchy of Luxembourg; the Grand Duche de Luxembourg; The Grand Duche de Luxembourg;LU; LUX; LU; ; L
+ Macao; Macao; Macao; Macao; Macau Special Administrative Region China; ; ; ;MO; MAC; MC
+ Macedonia; The Former Yugoslav Republic of Macedonia; Macedonia, The Former Yugoslav Republic of; The Former Yugoslav Republic of Macedonia; Republic of Macedonia; Republic of Macedonia.; The former Yugoslav Republic of Macedonia; The former Yugoslav Republic of Macedonia;MK; MKD; MK; TFYR of Macedonia; MK
+ Madagascar; Madagascar; Madagascar; Madagascar; Republic of Madagascar; Republic of Madagascar; the Republic of Madagascar; The Republic of Madagascar;MG; MDG; MA; ; RM
+ Malawi; Malawi; Malawi; Malawi; Republic of Malawi; Republic of Malawi; the Republic of Malawi; The Republic of Malawi;MW; MWI; MI; ; MW
+ Malaysia; Malaysia; Malaysia; Malaysia; Malaysia; Malaysia; Malaysia; Malaysia;MY; MYS; MY; ; MAL
+ Maldives; Maldives; Maldives; Maldives; Republic of Maldives; Republic of Maldives; the Republic of Maldives; The Republic of Maldives;MV; MDV; MV
+ Mali; Mali; Mali; Mali; Republic of Mali; Republic of Mali; the Republic of Mali; The Republic of Mali;ML; MLI; ML; ; RMM
+ Malta; Malta; Malta; Malta; Republic of Malta; Republic of Malta; the Republic of Malta; The Republic of Malta;MT; MLT; MT; ; M
+ Marshall Islands; Marshall Islands; Marshall Islands; Marshall Islands; Republic of the Marshall Islands; Republic of the Marshall Islands; the Republic of the Marshall Islands; The Republic of The Marshall Islands;MH; MHL; RM
+ Martinique; Martinique; Martinique; Martinique; Martinique; ; ; ;MQ; MTQ; MB
+ Mauritania; Mauritania; Mauritania; Mauritania; Islamic Republic of Mauritania; Islamic Republic of Mauritania; the Islamic Republic of Mauritania; The Islamic Republic of Mauritania;MR; MRT; MR; ; RIM
+ Mauritius; Mauritius; Mauritius; Mauritius; Republic of Mauritius; Republic of Mauritius; The Republic of Mauritius; The Republic of Mauritius;MU; MUS; MP; ; MS
+ Mayotte; Mayotte; Mayotte; Mayotte; Department Collectivity of Mayotte; ; ; ;YT; MYT; MF
+ Mexico; Mexico; Mexico; Mexico; United Mexican States; United Mexican States; the United Mexican States; The United Mexican States;MX; MEX; MX; ; MEX
+ Micronesia; Federated States of Micronesia; Micronesia, Federated States of; Federated States of Micronesia; Federated States of Micronesia; Federated States of Micronesia; the Federated States of Micronesia; The Federated States of Micronesia;FM; FSM; FM
+ Moldova; Republic of Moldova; Moldova, Republic of; Republic of Moldova; Republic of Moldova; Republic of Moldova; the Republic of Moldova; The Republic of Moldova;MD; MDA; MD; ; MD
+ Monaco; Monaco; Monaco; Monaco; Principality of Monaco; Principality of Monaco; the Principality of Monaco; The Principality of Monaco;MC; MCO; MN; ; MC
+ Mongolia; Mongolia; Mongolia; Mongolia; Mongolia; Mongolia; Mongolia; Mongolia;MN; MNG; MG; ; MGL
+ Montenegro; Montenegro; Montenegro; Montenegro; Montenegro; Montenegro; Montenegro; Montenegro;ME; MNE; MJ; ; MNE
+ Montserrat; Montserrat; Montserrat; Montserrat; Montserrat; Monserrat; ; ;MS; MSR; MH
+ Morocco; Morocco; Morocco; Morocco; Kingdom of Morocco; Kingdom of Morocco; the Kingdom of Morocco; The Kingdom of Morocco;MA; MAR; MO; ; MA
+ Mozambique; Mozambique; Mozambique; Mozambique; Republic of Mozambique; Republic of Mozambique; the Republic of Mozambique; The Republic of Mozambique;MZ; MOZ; MZ; ; MOC
+ Myanmar; Myanmar; Myanmar; Myanmar; Union of Burma; Republic of the Union of Myanmar; the Republic of the Union of Myanmar; The Republic of The Union of Myanmar;MM; MMR; BM; ; BUR
+ Namibia; Namibia; Namibia; Namibia; Republic of Namibia; Republic of Namibia; the Republic of Namibia; The Republic of Namibia;NA; NAM; WA; ; N
+ Nauru; Nauru; Nauru; Nauru; Republic of Nauru; Republic of Nauru; the Republic of Nauru; The Republic of Nauru;NR; NRU; NR; ; NAU
+ Nepal; Nepal; Nepal; Nepal; Federal Democratic Republic of Nepal; Federal Democratic Republic of Nepal; the Federal Democratic Republic of Nepal; The Federal Democratic Republic of Nepal;NP; NPL; NP; ; NEP
+ Netherlands; Netherlands; Netherlands; Netherlands; Kingdom of the Netherlands; Kingdom of the Netherlands; the Kingdom of the Netherlands; The Kingdom of The NeTherlands;NL; NLD; NL; ; NL
+ New Caledonia; New Caledonia; New Caledonia; New Caledonia; Territory of New Caledonia and Dependencies; ; ; ;NC; NCL; NC
+ New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand; New Zealand;NZ; NZL; NZ; ; NZ
+ Nicaragua; Nicaragua; Nicaragua; Nicaragua; Republic of Nicaragua; Republic of Nicaragua; the Republic of Nicaragua; The Republic of Nicaragua;NI; NIC; NU; ; NIC
+ Niger; Niger; Niger; Niger; Republic of the Niger; Republic of Niger; the Republic of the Niger; The Republic of The Niger;NE; NER; NG; ; RN
+ Nigeria; Nigeria; Nigeria; Nigeria; Federal Republic of Nigeria; Federal Republic of Nigeria; the Federal Republic of Nigeria; The Federal Republic of Nigeria;NG; NGA; NI; ; WAN
+ Niue; Niue; Niue; Niue; Niue; ; Niue; Niue;NU; NIU; NE
+ Norfolk Island; Norfolk Island; Norfolk Island; Norfolk Island; Territory of Norfolk Island; ; ; ;NF; NFK; NF
+ Northern Mariana Islands; Northern Mariana Islands; Northern Mariana Islands; Northern Mariana Islands; Commonwealth of the Northern Mariana Islands; ; ; ;MP; MNP; CQ
+ Norway; Norway; Norway; Norway; Kingdom of Norway; Kingdom of Norway; the Kingdom of Norway; The Kingdom of Norway;NO; NOR; NO; ; N
+ Palestinian Territories; Occupied Palestinian Territory; Occupied Palestinian Territory; Occupied Palestinian Territory; Gaza Strip and West Bank; Gaza ; ; ;PS; PSE
+ Oman; Oman; Oman; Oman; Sultanate of Oman; Sultanate of Oman; the Sultanate of Oman; The Sultanate of Oman;OM; OMN; MU
+ Pakistan; Pakistan; Pakistan; Pakistan; Islamic Republic of Pakistan; Islamic Republic of Pakistan; the Islamic Republic of Pakistan; The Islamic Republic of Pakistan;PK; PAK; PK; ; PK
+ Palau; Palau; Palau; Palau; Republic of Palau; Republic of Palau; the Republic of Palau; The Republic of Palau;PW; PLW; PS
+ Panama; Panama; Panama; Panama; Republic of Panama; Republic of Panama; the Republic of Panama; The Republic of Panama;PA; PAN; PM; ; PA
+ Papua New Guinea; Papua New Guinea; Papua New Guinea; Papua New Guinea; Independent State of Papua New Guinea; Independent State of Papua New Guinea; Papua New Guinea; Papua New Guinea;PG; PNG; PP; ; PNG
+ Paraguay; Paraguay; Paraguay; Paraguay; Republic of Paraguay; Republic of Paraguay; the Republic of Paraguay; The Republic of Paraguay;PY; PRY; PA; ; PY
+ Peru; Peru; Peru; Peru; Republic of Peru; Republic of Peru; the Republic of Peru; The Republic of Peru;PE; PER; PE; ; PE
+ Philippines; Philippines; Philippines; Philippines; Republic of the Philippines; Republic of the Philippines; the Republic of the Philippines; The Republic of The Philippines;PH; PHL; RP; ; RP
+ Pitcairn; Pitcairn; Pitcairn; Pitcairn; Pitcairn, Henderson, Ducie, and Oeno Islands; ; ; ;PN; PCN; PC
+ Poland; Poland; Poland; Poland; Poland; Republic of Poland; the Republic of Poland; The Republic of Poland;PL; POL; PL; ; PL
+ Portugal; Portugal; Portugal; Portugal; Portuguese Republic; Portuguese Republic; the Portuguese Republic; The Portuguese Republic;PT; PRT; PO; ; P
+ Puerto Rico; Puerto Rico; Puerto Rico; Puerto Rico; Commonwealth of Puerto Rico; ; ; ;PR; PRI; RQ
+ Qatar; Qatar; Qatar; Qatar; State of Qatar; State of Qatar; the State of Qatar; The State of Qatar;QA; QAT; QA; ; Q
+ Reunion; Reunion; Réunion; Réunion; French Department of Réunion; ; ; ;RE; REU; RW
+ Romania; Romania; Romania; Romania; Romania; Romania; Romania; Romania;RO; ROU; RO; ; RO
+ Russian Federation; Russian Federation; Russian Federation; Russian Federation; Russian Federation; Russian Federation; the Russian Federation; The Russian Federation;RU; RUS; RS; ; RUS
+ Rwanda; Rwanda; Rwanda; Rwanda; Republic of Rwanda; Republic of Rwanda; the Republic of Rwanda; The Republic of Rwanda;RW; RWA; RW; ; RWA
+ Saint Barthelemy; Saint Barthelemy; Saint Barthélemy; ; Overseas Collectivity of Saint Barthelemy; ; ; ;BL; BLM; TB
+ Saint Helena; Ascension and Tristan da Cunha; Saint Helena, Ascension and Tristan da Cunha; Saint Helena, Ascension and Tristan da Cunha; Saint Helena, Ascension, and Tristan da Cunha; ; ; ;SH; SHN; SH
+ Saint Kitts and Nevis; Saint Kitts and Nevis; Saint Kitts and Nevis; Saint Kitts and Nevis; Federation of Saint Kitts and Nevis; Federation of Saint Christopher and Nevis; Saint Kitts and Nevis; Saint Kitts and Nevis;KN; KNA; SC
+ Saint Lucia; Saint Lucia; Saint Lucia; Saint Lucia; Saint Lucia; Saint Lucia; Saint Lucia; Saint Lucia;LC; LCA; ST; ; WL
+ Saint Martin ; Saint Martin (French part); Saint Martin (French part); Saint Martin (French part); Overseas Collectivity of Saint Martin; ; ; ;MF; MAF; RN
+ Saint Pierre and Miquelon; Saint Pierre and Miquelon; Saint Pierre and Miquelon; Saint Pierre and Miquelon; Territorial Collectivity of Saint Pierre and Miquelon; ; ; ;PM; SPM; SB
+ Saint Vincent and The Grenadines; Saint Vincent and The Grenadines; Saint Vincent and The Grenadines; Saint Vincent and The Grenadines; Saint Vincent and The Grenadines; Saint Vincent and the Grenadines; Saint Vincent and the Grenadines; Saint Vincent and The Grenadines;VC; VCT; VC; ; WV
+ Samoa; Samoa; Samoa; Samoa; Independent State of Samoa; Independent State of Samoa; the Independent State of Samoa; The Independent State of Samoa;WS; WSM; WS; ; WS
+ San Marino; San Marino; San Marino; San Marino; Republic of San Marino; Republic of San Marino; the Republic of San Marino; The Republic of San Marino;SM; SMR; SM; ; RSM
+ Sao Tome and Principe; Sao Tome and Principe; Sao Tome and Principe; Sao Tome and Principe; Democratic Republic of Sao Tome and Principe; Democratic Republic of Sao Tome and Principe; the Democratic Republic of Sao Tome and Principe; The Democratic Republic of Sao Tome and Principe;ST; STP; TP
+ Saudi Arabia; Saudi Arabia; Saudi Arabia; Saudi Arabia; Kingdom of Saudi Arabia; Kingdom of Saudi Arabia; the Kingdom of Saudi Arabia; The Kingdom of Saudi Arabia;SA; SAU; SA; ; SA
+ Senegal; Senegal; Senegal; Senegal; Republic of Senegal; Republic of Senegal; the Republic of Senegal; The Republic of Senegal;SN; SEN; SG; ; SN
+ Serbia; Serbia; Serbia; Serbia; Republic of Serbia; Republic of Serbia; the Republic of Serbia; The Republic of Serbia;RS; SRB; RI; ; SRB
+ Seychelles; Seychelles; Seychelles; Seychelles; Republic of Seychelles; Republic of Seychelles; the Republic of Seychelles; The Republic of Seychelles;SC; SYC; SE; ; SY
+ Sierra Leone; Sierra Leone; Sierra Leone; Sierra Leone; Republic of Sierra Leone; Republic of Sierra Leone; the Republic of Sierra Leone; The Republic of Sierra Leone;SL; SLE; SL; ; WAL
+ Singapore; Singapore; Singapore; Singapore; Republic of Singapore; Republic of Singapore; the Republic of Singapore; The Republic of Singapore;SG; SGP; SN; ; SGP
+ Sint Maarten ; Sint Maarten (Dutch part); Sint Maarten (Dutch part); Sint Maarten (Dutch part); Country of Sint Maarten; ; ; ;SX; SXM; NN
+ Slovakia; Slovakia; Slovakia; Slovakia; Republic of Slovakia; Slovak Republic; the Slovenska Republika; The Slovenska Republika;SK; SVK; LO; ; SK
+ Slovenia; Slovenia; Slovenia; Slovenia; Republic of Slovenia; Republic of Slovenia; the Republic of Slovenia; The Republic of Slovenia;SI; SVN; SI; ; SLO
+ Solomon Islands; Solomon Islands; Solomon Islands; Solomon Islands; Solomon Islands; Solomon Islands; Solomon Islands; Solomon Islands;SB; SLB; BP
+ Somalia; Somalia; Somalia; Somalia; Somalia; Somali Republic; the Somalia Republic; The Somalia Republic;SO; SOM; SO; ; SO
+ South Africa; South Africa; South Africa; South Africa; Republic of South Africa; Republic of South Africa; Republic of South Africa (the); Republic of South Africa (The);ZA; ZAF; SF; ; ZA
+ South Georgia ; South Georgia and the South Sandwich Islands; South Georgia and the South Sandwich Islands; South Georgia and the South Sandwich Islands; South Georgia and the South Sandwich Islands; ; ; ;GS; SGS; SX
+ South Sudan; South Sudan; South Sudan; South Sudan; Republic of South Sudan; Republic of South Sudan; ; ;SS; SSD
+ Spain; Spain; Spain; Spain; Kingdom of Spain; Kingdom of Spain; the Kingdom of Spain; The Kingdom of Spain;ES; ESP; SP; ; E
+ Sri Lanka; Sri Lanka; Sri Lanka; Sri Lanka; Democratic Socialist Republic of Sri Lanka; Democratic Socialist Republic of Sri Lanka; the Democratic Socialist Republic of Sri Lanka; The Democratic Socialist Republic of Sri Lanka;LK; LKA; CE; ; CL
+ Sudan; Sudan; Sudan; Sudan; Republic of the Sudan; Republic of the Sudan; the Republic of the Sudan; The Republic of The Sudan;SD; SDN; SU; ; SUD
+ Suriname; Suriname; Suriname; Suriname; Republic of Suriname; Republic of Suriname; the Republic of Suriname; The Republic of Suriname;SR; SUR; NS; ; SME
+ Svalbard and Jan Mayen; Svalbard and Jan Mayen; Svalbard and Jan Mayen; Svalbard and Jan Mayen; Svalbard and Jan Mayen; ; ; ;SJ; SJM; SV
+ Swaziland; Swaziland; Swaziland; Swaziland; Kingdom of Swaziland; Kingdom of Swaziland; the Kingdom of Swaziland; The Kingdom of Swaziland;SZ; SWZ; WZ; ; SD
+ Sweden; Sweden; Sweden; Sweden; Kingdom of Sweden; Kingdom of Sweden; the Kingdom of Sweden; The Kingdom of Sweden;SE; SWE; SW; ; S
+ Switzerland; Switzerland; Switzerland; Switzerland; Confederation of Switzerland; Swiss Confederation; the Confederation of Switzerland; The Confederation of Switzerland;CH; CHE; SZ; ; CH
+ Syria; Syrian Arab Republic; Syrian Arab Republic; Syrian Arab Republic; Syrian Arab Republic; Syrian Arab Republic; the Syrian Arab Republic; The Syrian Arab Republic;SY; SYR; SY; ; SYR
+ Taiwan; Taiwan, Province of China; Taiwan, Province of China; Taiwan, Province of China; Taiwan; ; Republic of China; Republic of China;TW; TWN; TW
+ Tajikistan; Tajikistan; Tajikistan; Tajikistan; Republic of Tajikistan; Republic of Tajikistan; the Republic of Tajikistan; The Republic of Tajikistan;TJ; TJK; TI; ; TJ
+ Tanzania; United Republic of Tanzania; Tanzania, United Republic of; United Republic of Tanzania; United Republic of Tanzania; United Republic of Tanzania; the United Republic of Tanzania; The United Republic of Tanzania;TZ; TZA; TZ; ; EAT
+ Thailand; Thailand; Thailand; Thailand; Kingdom of Thailand; Kingdom of Thailand; the Kingdom of Thailand; The Kingdom of Thailand;TH; THA; TH; ; T
+ Timor-Leste; Timor-Leste; Timor-Leste; Timor-Leste; Democratic Republic of Timor-Leste; Democratic Republic of Timor-Leste; the Democratic Republic of Timor-Leste; The Democratic Republic of Timor-Leste;TL; TLS; TT
+ Togo; Togo; Togo; Togo; Togolese Republic; Togolese Republic; the Togolese Republic; The Togolese Republic;TG; TGO; TO; ; TG
+ Tokelau; Tokelau; Tokelau; Tokelau; Tokelau; ; ; ;TK; TKL; TL
+ Tonga; Tonga; Tonga; Tonga; Kingdom of Tonga; Kingdom of Tonga; the Kingdom of Tonga; The Kingdom of Tonga;TO; TON; TN
+ Trinidad and Tobago; Trinidad and Tobago; Trinidad and Tobago; Trinidad and Tobago; Republic of Trinidad and Tobago; Republic of Trinidad and Tobago; the Republic of Trinidad and Tobago; The Republic of Trinidad and Tobago;TT; TTO; TD; ; TT
+ Tunisia; Tunisia; Tunisia; Tunisia; Tunisian Republic; Tunisian Republic; the Republic of Tunisia; The Republic of Tunisia;TN; TUN; TS; ; TN
+ Turkey; Turkey; Turkey; Turkey; Republic of Turkey; Republic of Turkey; the Republic of Turkey; The Republic of Turkey;TR; TUR; TU; ; TR
+ Turkmenistan; Turkmenistan; Turkmenistan; Turkmenistan; Turkmenistan; Turkmenistan; Turkmenistan; Turkmenistan;TM; TKM; TX; ; TM
+ Turks and Caicos Islands; Turks and Caicos Islands; Turks and Caicos Islands; Turks and Caicos Islands; Turks and Caicos Islands; ; ; ;TC; TCA; TK
+ Tuvalu; Tuvalu; Tuvalu; Tuvalu; Tuvalu; Tuvalu; Tuvalu; Tuvalu;TV; TUV; TV
+ Uganda; Uganda; Uganda; Uganda; Republic of Uganda; Republic of Uganda; the Republic of Uganda; The Republic of Uganda;UG; UGA; UG; ; EAU
+ Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine; Ukraine;UA; UKR; UP; ; UA
+ United Arab Emirates; United Arab Emirates; United Arab Emirates; United Arab Emirates; United Arab Emirates; United Arab Emirates; the United Arab Emirates; The United Arab Emirates;AE; ARE; AE; UAE; UAE
+ United Kingdom; United Kingdom; United Kingdom; United Kingdom; United Kingdom of Great Britain and Northern Ireland; United Kingdom of Great Britain and Northern Ireland; the United Kingdom of Great Britain and Northern Ireland; The United Kingdom of Great Britain and NorThern Ireland;GB; GBR; UK; UK; GB
+ United States; United States; United States; United States; United States of America; United States of America; the United States of America; The United States of America;US; USA; US; ; USA
+ United States Minor Outlying Islands; United States Minor Outlying Islands; United States Minor Outlying Islands; United States Minor Outlying Islands; ; ; ; ;UM; UMI
+ Uruguay; Uruguay; Uruguay; Uruguay; Oriental Republic of Uruguay; Oriental Republic of Uruguay; the Eastern Republic of Uruguay; The Eastern Republic of Uruguay;UY; URY; UY; ; ROU
+ Uzbekistan; Uzbekistan; Uzbekistan; Uzbekistan; Republic of Uzbekistan; Republic of Uzbekistan; the Republic of Uzbekistan; The Republic of Uzbekistan;UZ; UZB; UZ; ; UZ
+ Vanuatu; Vanuatu; Vanuatu; Vanuatu; Republic of Vanuatu; Republic of Vanuatu; the Republic of Vanuatu; The Republic of Vanuatu;VU; VUT; NH
+ Venezuela; Bolivarian Republic of Venezuela; Venezuela, Bolivarian Republic of; Bolivarian Republic of Venezuela; Bolivarian Republic of Venezuela; Bolivarian Republic of Venezuela; the Bolivarian Republic of Venezuela; The Bolivarian Republic of Venezuela;VE; VEN; VE; ; YV
+ Vietnam; Viet Nam; Viet Nam; Viet Nam; Socialist Republic of Vietnam; Socialist Republic of Vietnam; the Socialist Republic of Vietnam; The Socialist Republic of Vietnam;VN; VNM; VM; VN
+ Virgin Islands British; British Virgin Islands; Virgin Islands, British; British Virgin Islands; British Virgin Islands; ; ; ;VG; VGB; VI; BVI
+ Virgin Islands U.S.; U.S. Virgin Islands; Virgin Islands, U.S.; U.S. Virgin Islands; United States Virgin Islands; ; ; ;VI; VIR; VQ
+ Wallis and Futuna; Wallis and Futuna; Wallis and Futuna; Wallis and Futuna; Territory of the Wallis and Futuna Islands; ; ; ;WF; WLF; WF
+ Western Sahara; Western Sahara; Western Sahara; Western Sahara; Western Sahara; ; ; ;EH; ESH; WI
+ Yemen; Yemen; Yemen; Yemen; Republic of Yemen; Republic of Yemen; the Republic of Yemen; The Republic of Yemen;YE; YEM; YM; ; YAR
+ Zambia; Zambia; Zambia; Zambia; Republic of Zambia; Republic of Zambia; the Republic of Zambia; The Republic of Zambia;ZM; ZMB; ZA; ; RNR
+ Zimbabwe; Zimbabwe; Zimbabwe; Zimbabwe; Republic of Zimbabwe; Republic of Zimbabwe; the Republic of Zimbabwe; The Republic of Zimbabwe;ZW; ZWE; ZI; ; ZW
